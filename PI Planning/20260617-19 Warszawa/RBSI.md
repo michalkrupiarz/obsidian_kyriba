@@ -1,0 +1,1 @@
+[[iteration over accounts]] is not using [[error handling]], there is separate ticket. [[error handling]] is about sending correct data to kapp to present to user 
