@@ -12,7 +12,7 @@ Issues
 4. What to present to user with [[error handling]]
 
 Solutions
-1. We will retry only based on set of http codes (it will be configurable so we can exclude or include set of http codes), and according to them. For Banks that return 200 with error code, we do not retry in MVP. For [[SPI]] we need to add additional things (to be confirmed).
+1. We will retry only based on set of http codes (it will be configurable so we can exclude or include set of http codes), and according to them. For Banks that return 200 with error code, we do not retry in MVP. For [[SPI issues]] we need to add additional things (to be confirmed).
 2. Retry will happen as a strategy [[retry strategy]] for different http codes. By default it will be: retry after 1 min, 5 min, 15 min. It can be configured per bank or even per flow 
 3. First step here is to have a [[message splitting]] so we have single account per response (to be confirmed). Then we can separate acounts that worked from ones that failed, and retry only those that failed
 
