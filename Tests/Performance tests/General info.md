@@ -7,3 +7,7 @@ backOffice customer
 customer = kyriba 
 user = system 
 password = 12345678
+
+Working customers
+TESTPY00
+TESTPY33
