@@ -5,3 +5,10 @@ In general you should be able to pick, bank and type of certificate and create i
 To do: 
 Manually check it
 Check already existing automated tests and adjust. 
+
+BKAPI@SPIDEMO01
+BKAPI@TESTSPISELFSIGNED01
+
+bankApiTestDescription20260629
+
+BKAPI@TEST1782737946

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"8f991daf81b017f9","type":"file","file":"To do/20260623/2026 06 23 Zadania do zrobienia.md","x":-1360,"y":-680,"width":644,"height":380},
+		{"id":"37372dec7fc71278","type":"file","file":"To do/20260626.md","x":80,"y":-680,"width":644,"height":400},
+		{"id":"179497c1deda58aa","type":"file","file":"To do/2026062.md","x":800,"y":-680,"width":644,"height":440},
+		{"id":"f0ccf6982e689852","x":-1360,"y":240,"width":723,"height":205,"type":"text","text":"Done\nPerformance machine confikguration for hsbc\n"},
+		{"id":"92488fc6e9df65ae","type":"file","file":"To do/20260625/To do 20260625.md","x":-660,"y":-680,"width":644,"height":609}
+	],
+	"edges":[]
+}

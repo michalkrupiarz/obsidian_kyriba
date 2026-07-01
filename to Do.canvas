@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"92488fc6e9df65ae","type":"file","file":"To do/20260625/To do 20260625.md","x":-84,"y":340,"width":644,"height":609},
-		{"id":"8f991daf81b017f9","type":"file","file":"To do/20260623/2026 06 23 Zadania do zrobienia.md","x":-84,"y":-100,"width":644,"height":380},
-		{"id":"37372dec7fc71278","type":"file","file":"To do/20260626.md","x":-84,"y":1000,"width":644,"height":400},
-		{"id":"179497c1deda58aa","type":"file","file":"To do/2026062.md","x":-84,"y":1440,"width":644,"height":440}
-	],
-	"edges":[]
-}
